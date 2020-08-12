@@ -87,8 +87,8 @@ function valid() {
 		a4.focus();
 		return false;
 	}
-	else if (ab4.test(a3.value) == false) {
-		b4.innerHTML = "Please enter valid Password";
+	else if (ab4.test(a4.value) == false) {
+		b4.innerHTML = "Please enter valid Email";
 		a4.focus();
 		return false;
 
